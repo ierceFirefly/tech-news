@@ -1,0 +1,23 @@
+#first{
+        font-weight: lighter;
+        font-style: italic;
+        text-decoration: underline;
+        text-align: center;
+        text-transform: capitalize;
+        text-decoration: underline;
+}
+.para1{
+    font-weight: lighter;
+    font-style: italic;
+    text-transform: capitalize;
+    font-family: Orpheus;
+}
+::selection{
+    color: aqua;
+    background-color: black;
+}
+h1.my-link:hover{
+    text-align: center;
+    text-decoration: underline;
+    
+}
